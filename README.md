@@ -1,2 +1,2 @@
-# Uni-n
+# UNION
 Hack the rainbow project
