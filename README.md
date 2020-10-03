@@ -1,9 +1,10 @@
 # UNION
 
  ## Hack the rainbow project
-    A Tanda is a rotating saving scheme where each person pays into a pot, and then one person per month receives the sum total. 
-    These are used in Latin America for communities to   support each other. This could be done with existing ERC-20 tokens of Ethereum, 
-    and nep21 token of Near using rainbow bridge.
+ 
+ ####   UNION is a rotating saving scheme where each person pays into a pot, and then one person per month receives the sum total. 
+ ####   These are used in Latin America for communities to   support each other. This could be done with existing ERC-20 tokens of Ethereum, 
+ ####    and nep21 token of Near using rainbow bridge.
 
 #### steps for the implementaion of code
    
