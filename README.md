@@ -6,7 +6,7 @@
  ####   These are used in Latin America for communities to   support each other. This could be done with existing ERC-20 tokens of Ethereum, 
  ####    and nep21 token of Near using rainbow bridge.
 
-#### steps for the implementaion of code
+#### --> steps for the implementaion of code
    
   ### 1. copy the solidity code to remix ide then deploy the contract on rinkbytest net
   
