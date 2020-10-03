@@ -4,6 +4,7 @@ Hack the rainbow project
 steps for the implementaion of code
    
    1. copy the solidity code to remix ide then deploy the contract
+     ![Image of code](https://i.postimg.cc/2jtHRM13/Screenshot-20-h2.png)
    2. Transfer the nep21 to the deployed contract address
    3. select the oneclick dapp feature in remix and open the dapp of deployed address 
    4. member can add other community members
