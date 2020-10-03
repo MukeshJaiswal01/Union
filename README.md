@@ -13,6 +13,7 @@
  ![Image of code](https://i.postimg.cc/2jtHRM13/Screenshot-20-h2.png)
      
   ### 2. Transfer the nep21 to the deployed contract address
+        these token will be used deposited in the contract which will be distributed later
  ![rainbow-bridge](https://i.postimg.cc/qRFDB5vJ/Screenshot-19-h1.png)
        
   ### 3. select the oneclick dapp feature in remix and open the dapp of deployed address
